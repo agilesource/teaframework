@@ -43,7 +43,7 @@ mvn site
 Git setup Sample
 
 git config --global user.name "Peter Cheng"
-git config --global user.email pc@agilesource.org
+git config --global user.email teaframework@gmail.com
         
 Next steps:
 
