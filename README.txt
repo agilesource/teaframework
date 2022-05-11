@@ -79,3 +79,5 @@ https://github.com/agilesource/teaframework
 Thank you for using TeaFramework!
 - The TeaFramework Team
 -----------------------------------------------------------
+
+Join the chat at https://gitter.im/agilesource/testroom
